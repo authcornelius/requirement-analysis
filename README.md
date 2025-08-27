@@ -51,10 +51,7 @@ Define **how the system performs** or **constraints**. Examples:
 ---
 
 ## Use Case Diagrams
-**Use Case Diagrams** visually represent system actors and their interactions with the system. They help stakeholders understand functionalities at a glance.  
-
-**Example Diagram for Booking System:**  
-![Use Case Diagram](alx-booking-uc.png)  
+**Use Case Diagrams** visually represent system actors and their interactions with the system. They help stakeholders understand functionalities at a glance.
 
 **Actors:**  
 - User  
@@ -63,9 +60,17 @@ Define **how the system performs** or **constraints**. Examples:
 
 **Use Cases:**  
 - Create Booking  
+- Update Booking  
 - Cancel Booking  
+- Make Payment  
+- Manage Room Availability  
+- Set Pricing  
+- View Bookings  
 - Process Payment  
-- Manage Rooms  
+- Confirm Payment  
+
+**Diagram Example:**  
+![Use Case Diagram](alx-booking-uc.png)
 
 ---
 
